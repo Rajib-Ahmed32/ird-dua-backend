@@ -12,13 +12,51 @@ export const initDb = async () => {
     driver: sqlite3.Database,
   });
 
+  // Main categories table
   await db.exec(`
-    CREATE TABLE IF NOT EXISTS duas (
+    CREATE TABLE IF NOT EXISTS categories (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      title TEXT NOT NULL,
-      content TEXT NOT NULL
+      name TEXT NOT NULL,
+      image TEXT,
+      sortOrder INTEGER DEFAULT 0
     )
   `);
 
-  console.log("SQLite database connected and table ensured.");
+  // Subcategories table
+  await db.exec(`
+    CREATE TABLE IF NOT EXISTS subcategories (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      categoryId INTEGER NOT NULL,
+      name TEXT NOT NULL,
+      sortOrder INTEGER DEFAULT 0,
+      FOREIGN KEY(categoryId) REFERENCES categories(id)
+    )
+  `);
+
+  // Duas table
+  await db.exec(`
+    CREATE TABLE IF NOT EXISTS duas (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      subcategoryId INTEGER NOT NULL,
+      title TEXT NOT NULL,
+      content TEXT, -- description (optional)
+      arabic TEXT,  -- dua in Arabic
+      transliteration TEXT, -- phonetic pronunciation
+      translation TEXT, -- meaning in English (or other)
+      reference TEXT, -- Quran/Hadith reference
+      audio TEXT, -- optional audio file path
+      sortOrder INTEGER DEFAULT 0,
+      FOREIGN KEY(subcategoryId) REFERENCES subcategories(id)
+    )
+  `);
+
+  // Faster queries
+  await db.exec(
+    `CREATE INDEX IF NOT EXISTS idx_subcategories_categoryId ON subcategories(categoryId)`
+  );
+  await db.exec(
+    `CREATE INDEX IF NOT EXISTS idx_duas_subcategoryId ON duas(subcategoryId)`
+  );
+
+  console.log("SQLite database connected and all tables ensured.");
 };
