@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Morning & Evening Duas",
+    "image": "morning.png",
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "name": "Before & After Eating",
+    "image": "eating.png",
+    "sortOrder": 2
+  },
+  { "id": 3, "name": "Travel Duas", "image": "travel.png", "sortOrder": 3 },
+  {
+    "id": 4,
+    "name": "Prayer & Worship",
+    "image": "prayer.png",
+    "sortOrder": 4
+  },
+  {
+    "id": 5,
+    "name": "Protection & Safety",
+    "image": "protection.png",
+    "sortOrder": 5
+  },
+  {
+    "id": 6,
+    "name": "Forgiveness & Repentance",
+    "image": "forgiveness.png",
+    "sortOrder": 6
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "subcategoryId": 1,
+    "title": "Morning Dua 1",
+    "content": "Recite every morning.",
+    "arabic": "اللّهـمَّ أَصْـبَحْنا وَأَصْـبَحَ المـلكُ للهِ",
+    "transliteration": "Allahumma asbahna wa asbaha al-mulku lillah",
+    "translation": "O Allah, we have entered a new morning and so too has the dominion.",
+    "reference": "Tirmidhi 3390",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 1,
+    "title": "Morning Dua 2",
+    "content": "Thank Allah for blessings.",
+    "arabic": "اللّهـمَّ أَصْـبَحْنا عَلَى نِعَمِكَ",
+    "transliteration": "Allahumma asbahna 'ala ni'amika",
+    "translation": "O Allah, we have woken up on Your blessings.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+  {
+    "subcategoryId": 1,
+    "title": "Morning Dua 3",
+    "content": "Seek protection from evil.",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللّهِ التَّامَّةِ",
+    "transliteration": "A'udhu bikalimatillahit-tammati",
+    "translation": "I seek refuge in the perfect words of Allah.",
+    "reference": "Muslim 2709",
+    "audio": null,
+    "sortOrder": 3
+  },
+  {
+    "subcategoryId": 2,
+    "title": "Evening Dua 1",
+    "content": "Recite every evening.",
+    "arabic": "اللّهـمَّ أَمْسَينا وَأَمْسَى المـلكُ للهِ",
+    "transliteration": "Allahumma amsina wa amsa al-mulku lillah",
+    "translation": "O Allah, we have entered the evening and so too has the dominion.",
+    "reference": "Tirmidhi 3391",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 2,
+    "title": "Evening Dua 2",
+    "content": "Seek protection at night.",
+    "arabic": "اللّهـمَّ بِكَ أَمْسَيْتُ وَبِكَ أَصْبَحْتُ",
+    "transliteration": "Allahumma bika amsaitu wa bika asbahtu",
+    "translation": "O Allah, with Your help I enter the evening and morning.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+  {
+    "subcategoryId": 3,
+    "title": "Before Eating 1",
+    "content": "Say before eating food.",
+    "arabic": "بِسْمِ اللهِ",
+    "transliteration": "Bismillah",
+    "translation": "In the name of Allah.",
+    "reference": "Bukhari 5376",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 3,
+    "title": "Before Eating 2",
+    "content": "Bless the food.",
+    "arabic": "اللّهـمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا",
+    "transliteration": "Allahumma barik lana fima razaqtana",
+    "translation": "O Allah, bless what You have provided us.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+  {
+    "subcategoryId": 4,
+    "title": "After Eating 1",
+    "content": "Say after finishing food.",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا",
+    "transliteration": "Alhamdulillahilladhi at'amana wasaqana",
+    "translation": "Praise be to Allah who fed us and gave us drink.",
+    "reference": "Muslim 2039",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 4,
+    "title": "After Eating 2",
+    "content": "Thank Allah.",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "transliteration": "Alhamdulillah",
+    "translation": "All praise is due to Allah.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+  {
+    "subcategoryId": 5,
+    "title": "Travel Start 1",
+    "content": "Recite before starting a journey.",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا",
+    "transliteration": "Subhanalladhi sakhkhara lana hatha",
+    "translation": "Glory be to Him who has subjected this to us.",
+    "reference": "Bukhari 1896",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 5,
+    "title": "Travel Start 2",
+    "content": "Seek protection from harm.",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ",
+    "transliteration": "Allahumma inni a'udhu bika min wa'tha'is-safar",
+    "translation": "O Allah, I seek refuge with You from the difficulties of travel.",
+    "reference": "Abu Dawood 2527",
+    "audio": null,
+    "sortOrder": 2
+  },
+  {
+    "subcategoryId": 6,
+    "title": "During Travel 1",
+    "content": "Recite while traveling.",
+    "arabic": "اللّهـمَّ احفظني في سَفَري",
+    "transliteration": "Allahumma ihfazni fi safari",
+    "translation": "O Allah, protect me in my journey.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 6,
+    "title": "During Travel 2",
+    "content": "Seek Allah’s guidance.",
+    "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+    "transliteration": "Rabb a'udhu bika min sharri ma ajidu wa uhadhiru",
+    "translation": "My Lord, I seek refuge from the evil I encounter.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 7,
+    "title": "Before Prayer 1",
+    "content": "Seek guidance before prayer.",
+    "arabic": "اللهم اجعلني من المقبولين",
+    "transliteration": "Allahumma aj'alni min al-maqbuleen",
+    "translation": "O Allah, make me among those accepted.",
+    "reference": "Ibn Majah 760",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 7,
+    "title": "Before Prayer 2",
+    "content": "Prepare heart for prayer.",
+    "arabic": "اللهم افتح لي أبواب رحمتك",
+    "transliteration": "Allahumma iftah li abwab rahmatik",
+    "translation": "O Allah, open for me the doors of Your mercy.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 8,
+    "title": "After Prayer 1",
+    "content": "Say after finishing prayer.",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "transliteration": "Astaghfirullah",
+    "translation": "I seek forgiveness from Allah.",
+    "reference": "Muslim 2713",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 8,
+    "title": "After Prayer 2",
+    "content": "Praise Allah.",
+    "arabic": "اللّهُ أَكْبَرُ",
+    "transliteration": "Allahu Akbar",
+    "translation": "Allah is the Greatest.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 9,
+    "title": "Home Protection 1",
+    "content": "Recite to protect home.",
+    "arabic": "اللّهـمَّ احفظ بيتنا",
+    "transliteration": "Allahumma ihfaz baitana",
+    "translation": "O Allah, protect our home.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 9,
+    "title": "Home Protection 2",
+    "content": "Keep home safe.",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّةِ",
+    "transliteration": "A'udhu bikalimatillahit-tammati",
+    "translation": "I seek refuge in the perfect words of Allah.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 10,
+    "title": "Personal Safety 1",
+    "content": "Say for personal protection.",
+    "arabic": "بِسْمِ اللهِ أَحْمي نفسي",
+    "transliteration": "Bismillah ahmi nafsi",
+    "translation": "In the name of Allah, protect me.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 10,
+    "title": "Personal Safety 2",
+    "content": "Seek Allah’s help.",
+    "arabic": "اللهم احفظني من كل شر",
+    "transliteration": "Allahumma ihfazni min kulli shar",
+    "translation": "O Allah, protect me from all evil.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 11,
+    "title": "Seeking Forgiveness 1",
+    "content": "Ask Allah for forgiveness.",
+    "arabic": "رَبِّ اغْفِرْ لِي",
+    "transliteration": "Rabbighfir li",
+    "translation": "My Lord, forgive me.",
+    "reference": "Quran 71:10",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 11,
+    "title": "Seeking Forgiveness 2",
+    "content": "Repent for sins.",
+    "arabic": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Astaghfirullah wa atubu ilayh",
+    "translation": "I seek Allah's forgiveness and repent to Him.",
+    "reference": "Sahih Muslim 2749",
+    "audio": null,
+    "sortOrder": 2
+  },
+
+  {
+    "subcategoryId": 12,
+    "title": "Repentance Dua 1",
+    "content": "Repent sincerely.",
+    "arabic": "اللهم إني أستغفرك من كل ذنب",
+    "transliteration": "Allahumma inni astaghfiruka min kulli dhanb",
+    "translation": "O Allah, I seek Your forgiveness from all sins.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 1
+  },
+  {
+    "subcategoryId": 12,
+    "title": "Repentance Dua 2",
+    "content": "Ask for mercy.",
+    "arabic": "رَبِّ تَقَبَّلْ تَوْبَتِي",
+    "transliteration": "Rabb taqabbal tawbati",
+    "translation": "My Lord, accept my repentance.",
+    "reference": "Daily Duas",
+    "audio": null,
+    "sortOrder": 2
+  }
+]

@@ -12,6 +12,9 @@ export const initDb = async () => {
     driver: sqlite3.Database,
   });
 
+  // Enable foreign key constraints
+  await db.exec("PRAGMA foreign_keys = ON");
+
   // Main categories table
   await db.exec(`
     CREATE TABLE IF NOT EXISTS categories (

@@ -1,0 +1,14 @@
+[
+  { "id": 1, "categoryId": 1, "name": "Morning Duas", "sortOrder": 1 },
+  { "id": 2, "categoryId": 1, "name": "Evening Duas", "sortOrder": 2 },
+  { "id": 3, "categoryId": 2, "name": "Before Eating", "sortOrder": 1 },
+  { "id": 4, "categoryId": 2, "name": "After Eating", "sortOrder": 2 },
+  { "id": 5, "categoryId": 3, "name": "Travel Start", "sortOrder": 1 },
+  { "id": 6, "categoryId": 3, "name": "During Travel", "sortOrder": 2 },
+  { "id": 7, "categoryId": 4, "name": "Before Prayer", "sortOrder": 1 },
+  { "id": 8, "categoryId": 4, "name": "After Prayer", "sortOrder": 2 },
+  { "id": 9, "categoryId": 5, "name": "Home Protection", "sortOrder": 1 },
+  { "id": 10, "categoryId": 5, "name": "Personal Safety", "sortOrder": 2 },
+  { "id": 11, "categoryId": 6, "name": "Seeking Forgiveness", "sortOrder": 1 },
+  { "id": 12, "categoryId": 6, "name": "Repentance Duas", "sortOrder": 2 }
+]
